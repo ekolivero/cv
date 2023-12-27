@@ -66,7 +66,7 @@ export const RESUME_DATA = {
     },
     {
       company: "Hype S.p.A. | Illimity Bank",
-      link: "https://www.finconsgroup.com/",
+      link: "https://www.hype.it/",
       badges: ["Remote", "Turin, Italy"],
       title: "Front End Developer",
       logo: ParabolLogo,
